@@ -1,0 +1,4 @@
+Composer inside the php-apache container. You can run any composer command inside the machine.
+To do that, just get the container id and run after docker-compuse up --build (this flag is optional):
+
+docker exec -it [container_id] /bin/bash

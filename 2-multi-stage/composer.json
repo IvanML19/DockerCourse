@@ -1,0 +1,6 @@
+{
+    "name": "ivanmartin/2-multi-stage",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
